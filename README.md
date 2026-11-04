@@ -19,6 +19,9 @@ A regression project that predicts house prices (in INR) and compares linear, tr
 | crime_rate_index | Crime rate of the area |
 | house_price_inr | **Target**: sale price in INR |
 
+## Project Video
+[Watch the project explanation here](https://drive.google.com/file/d/1OjfRNLaqIZ773T1J9Quyv7g594BNUx3o/view?usp=sharing)
+
 ## Project Structure (Notebook: `Project_2.ipynb`)
 
 - **Part A:** Theory (regularization, Ridge vs Lasso, cross-validation, why trees ignore scaling)
