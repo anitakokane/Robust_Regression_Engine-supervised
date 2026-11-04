@@ -20,7 +20,7 @@ A regression project that predicts house prices (in INR) and compares linear, tr
 | house_price_inr | **Target**: sale price in INR |
 
 ## Project Video
-[Watch the project explanation here](https://drive.google.com/file/d/1OjfRNLaqIZ773T1J9Quyv7g594BNUx3o/view?usp=sharing)
+[Watch the project explanation here](https://drive.google.com/file/d/1Cov2HsxS3j9K6LgdwlQT3KTjM2mfRxHL/view?usp=sharing)
 
 ## Project Structure (Notebook: `Project_2.ipynb`)
 
